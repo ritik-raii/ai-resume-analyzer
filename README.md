@@ -3,7 +3,6 @@
 A modern, production-ready template for building full-stack React applications using React Router.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
-<img width="1920" height="928" alt="Image" src="https://github.com/user-attachments/assets/f4dbca5e-8a13-4ee3-a335-91d0bf3919d0" />
 
 ## Features
 
