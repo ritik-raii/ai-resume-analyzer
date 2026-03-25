@@ -6,7 +6,7 @@ import Details from "~/components/Details";
 import Summary from "~/components/Summary";
 
 export const meta = () => ([
-    { title: "RITIK | Review"},
+    { title: "Resumind | Review"},
     { name: "description", content: "Detailed overview of your resume" },
 ])
 
